@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Kadali</title>
+    <link rel="stylesheet" href="style1.css">
+    <link rel="icon" href="favicon.ico">
+  </head>
+  <body>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=McLaren&display=swap" rel="stylesheet">
+<div class="top-container">
+  <img class="top-cloud"src="Images\cloud.png" alt="Cloud">
+  <h1>Hi I'm Divya</h1>
+  <p class="cool">I'm a <span class="web">Website Programmer.</span></p>
+  <img class="bottom-cloud" src="Images\cloud.png" alt="Cloud">
+  <img class="mountain" src="Images\mountain.png" alt="mountain"">
+</div>
+<div class="middle-container">
+  <div class="profile" >
+    <img class="dp"src="https://lh3.googleusercontent.com/Az_I-_X5ccprEbEK_b4eW_akqmK-SW3QHzz3E1D6F3SzOCbX2MRg2A97CdgK6M44SXB-3P-SkUjpW0BNyp-C1WYjkfoHBsidLLPMek2coyakwG5XnEBy1O75dqRhD-XOTt3BZhxbQ5YbjMhwo0-yf96S7PUI-SurzYeOuPJFQP6rx03PThKWIGj6uz0LHwKj2rpFT5FaMZQTa8wJrgjNSe_5OkW8ZxVuyNZGO0Hfl1vU2x6ciMG9qY4gGnMLdc98O544VekC7R-EqoJRD0HjP35yMpd4yHyyyHGUxtqD5_-D4pVa-IEDkz0rQ2lvh-4JOF07oLZrUSkyC1f7nyfKISkmhuVoEGUbM68tuCoEuhuD7tJ5-kYIWmCs1mmP0q4khjP9RQChS-1kz3T_cimVBc6vUiREpG0UTqXr2KahPkshOKX1a-ISFS8dWQMTQx2CM8x7p-TH6xCv9dD3UhPa0rFM5HEp3QPPyX-gz8riq-Udpf0nUn532ApIPVzyAKgRE01CRQofRkY_3RVmwIm-IwoYGzy6RNdv4Iva-OmuNdy82MejgKPjhyVPPc3pWZyOkUp8OYd1IL098kxvsA_SwbfhjQCxp4tp8p14xj-xHQY6eu3DpCganP3fyioTHi3uHp2PMWShrSLLGLTeawVjZClfgmsSGvRn-umlHlaYej1b-uy4zoUyE0eg6XkJIkTqpmc5xZy6rmT0xY-V_3YhlrO8=w589-h939-no?authuser=0" alt="My Picture" width="150px">
+    <h2 >Hello.</h2>
+    <p class="intro">I'm Divya Kadali, Techie enthusiast. I love web development and ice creams.</p>
+  </div>
+  <hr>
+  <div class="skills">
+    <h2>My Skills.</h2>
+    <div class="skill-row">
+      <img class="overview" src="https://image.flaticon.com/icons/png/512/3079/3079038.png" alt="Leafs" height="150px">
+      <h3>An over-energetic mutant </h3>
+      <p>Classical Singer,Sports,Communication,Fashion</p>
+    </div>
+    <div class="skill-row">
+      <img class="galaxy" src="https://image.flaticon.com/icons/png/512/139/139686.png" alt="" height="150px">
+      <h3>Galaxies</h3>
+      <p>I love watching the night sky. I love it when everything rests peacefully just after you finish coding.</p>
+    </div>
+  </div>
+  <hr>
+  <div class="contact-me">
+    <h2>Get In Touch</h2>
+    <h3>Love my Website?</h3>
+    <p>We can code and play together,feel free to contact me!</p>
+    <a class="btn" href="mailto:kdivya8045@gmail.com">CONTACT ME</a>
+  </div>
+</div>
+
+
+<div class="bottom-container">
+  <a class="footer-link" href="https://www.linkedin.com/in/divya-kadali-8a433918b//">LinkedIn</a>
+  <a class="footer-link" href="https://twitter.com/">Twitter</a>
+
+  <p>© 2021 Divya Kadali.</p>
+</div>
+
+  </body>
+</html>
